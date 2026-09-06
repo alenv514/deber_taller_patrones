@@ -1,0 +1,14 @@
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\bin\Debug\net10.0\CodigoInicial.exe
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\bin\Debug\net10.0\CodigoInicial.deps.json
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\bin\Debug\net10.0\CodigoInicial.runtimeconfig.json
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\bin\Debug\net10.0\CodigoInicial.dll
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\bin\Debug\net10.0\CodigoInicial.pdb
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.AssemblyInfoInputs.cache
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.AssemblyInfo.cs
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.csproj.CoreCompileInputs.cache
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.dll
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\refint\CodigoInicial.dll
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.pdb
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\CodigoInicial.genruntimeconfig.cache
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\CodigoInicial\obj\Debug\net10.0\ref\CodigoInicial.dll

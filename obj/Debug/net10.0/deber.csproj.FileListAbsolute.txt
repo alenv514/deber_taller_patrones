@@ -1,0 +1,14 @@
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\bin\Debug\net10.0\deber.exe
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\bin\Debug\net10.0\deber.deps.json
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\bin\Debug\net10.0\deber.runtimeconfig.json
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\bin\Debug\net10.0\deber.dll
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\bin\Debug\net10.0\deber.pdb
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.AssemblyInfoInputs.cache
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.AssemblyInfo.cs
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.csproj.CoreCompileInputs.cache
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.dll
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\refint\deber.dll
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.pdb
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\deber.genruntimeconfig.cache
+C:\Users\Acer Predator\Documents\Quinto\Patrones\clase\deber\obj\Debug\net10.0\ref\deber.dll
